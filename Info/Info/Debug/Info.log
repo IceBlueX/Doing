@@ -1,0 +1,33 @@
+﻿生成启动时间为 2018/10/13 10:46:57。
+     1>项目“C:\Users\LBK\Documents\Visual Studio 2013\Projects\Info\Info\Info.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing info.h...
+         Rcc'ing info.qrc...
+     1>RCC : warning : No resources in 'C:\Users\LBK\Documents\Visual Studio 2013\Projects\Info\Info\info.qrc'.
+         
+         Uic'ing info.ui...
+         Uic'ing dlg.ui...
+         Moc'ing si_dlg.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.5.1\5.5\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.5.1\5.5\msvc2013\include\QtCore /IC:\Qt\Qt5.5.1\5.5\msvc2013\include\QtGui /IC:\Qt\Qt5.5.1\5.5\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_info.cpp GeneratedFiles\Debug\moc_si_dlg.cpp info.cpp main.cpp si_dlg.cpp
+         moc_info.cpp
+         moc_si_dlg.cpp
+         info.cpp
+         main.cpp
+         si_dlg.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.5.1\5.5\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.5.1\5.5\msvc2013\include\QtCore /IC:\Qt\Qt5.5.1\5.5\msvc2013\include\QtGui /IC:\Qt\Qt5.5.1\5.5\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_info.cpp
+         qrc_info.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LBK\Documents\Visual Studio 2013\Projects\Info\Win32\Debug\\Info.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.5.1\5.5\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LBK\Documents\Visual Studio 2013\Projects\Info\Win32\Debug\Info.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LBK\Documents\Visual Studio 2013\Projects\Info\Win32\Debug\Info.lib" /MACHINE:X86 /SAFESEH Debug\moc_info.obj
+         Debug\moc_si_dlg.obj
+         Debug\qrc_info.obj
+         Debug\info.obj
+         Debug\main.obj
+         Debug\si_dlg.obj
+         Info.vcxproj -> C:\Users\LBK\Documents\Visual Studio 2013\Projects\Info\Win32\Debug\Info.exe
+     1>已完成生成项目“C:\Users\LBK\Documents\Visual Studio 2013\Projects\Info\Info\Info.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.25
